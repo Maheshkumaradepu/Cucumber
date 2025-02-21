@@ -1,0 +1,49 @@
+2025-02-21 11:49:40,394 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:49:56,006 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:50:08,099 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:50:26,493 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:51:33,760 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:51:48,655 - NopCommerce -INFO - ***************** Clicking MyAccount***************
+2025-02-21 11:51:50,198 - NopCommerce -INFO - *****************Entering Credentials***************
+2025-02-21 11:51:50,860 - NopCommerce -INFO - *****************submitting Credentials***************
+2025-02-21 11:51:55,070 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:51:55,107 - NopCommerce -INFO - *****************logging out ***************
+2025-02-21 11:51:55,918 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:51:55,969 - NopCommerce -INFO - *****************closign Browser***************
+2025-02-21 11:51:57,633 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:51:58,660 - NopCommerce -INFO - ***************** Clicking MyAccount***************
+2025-02-21 11:51:59,499 - NopCommerce -INFO - *****************Entering Credentials***************
+2025-02-21 11:51:59,830 - NopCommerce -INFO - *****************submitting Credentials***************
+2025-02-21 11:52:03,470 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:52:03,493 - NopCommerce -INFO - *****************logging out ***************
+2025-02-21 11:52:07,006 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:52:07,073 - NopCommerce -INFO - *****************closign Browser***************
+2025-02-21 11:52:08,795 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:52:09,848 - NopCommerce -INFO - ***************** Clicking MyAccount***************
+2025-02-21 11:52:10,897 - NopCommerce -INFO - *****************Entering Credentials***************
+2025-02-21 11:52:11,315 - NopCommerce -INFO - *****************submitting Credentials***************
+2025-02-21 11:52:14,914 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:52:20,305 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 11:52:28,932 - NopCommerce -INFO - ***************** Clicking MyAccount Register***************
+2025-02-21 11:52:34,705 - NopCommerce -INFO - *****************Entering Details***************
+2025-02-21 11:52:36,610 - NopCommerce -INFO - ***************** Clicking Reg Continue***************
+2025-02-21 11:52:44,644 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:52:44,844 - NopCommerce -INFO - ***************** Clicking  Continue After Reg Success***************
+2025-02-21 11:52:47,727 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 11:52:47,771 - NopCommerce -INFO - *****************closign Browser***************
+2025-02-21 12:05:20,346 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 12:05:24,154 - NopCommerce -INFO - ***************** Clicking MyAccount***************
+2025-02-21 12:05:30,711 - NopCommerce -INFO - *****************Entering Credentials***************
+2025-02-21 12:05:31,217 - NopCommerce -INFO - *****************submitting Credentials***************
+2025-02-21 12:05:35,655 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 12:05:35,705 - NopCommerce -INFO - *****************logging out ***************
+2025-02-21 12:05:36,722 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 12:05:36,797 - NopCommerce -INFO - *****************closign Browser***************
+2025-02-21 12:05:39,523 - NopCommerce -INFO - *****************Launching URL***************
+2025-02-21 12:05:40,682 - NopCommerce -INFO - ***************** Clicking MyAccount Register***************
+2025-02-21 12:05:42,798 - NopCommerce -INFO - *****************Entering Details***************
+2025-02-21 12:05:44,113 - NopCommerce -INFO - ***************** Clicking Reg Continue***************
+2025-02-21 12:05:47,242 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 12:05:47,309 - NopCommerce -INFO - ***************** Clicking  Continue After Reg Success***************
+2025-02-21 12:05:47,899 - NopCommerce -INFO - *****************Validating title ***************
+2025-02-21 12:05:47,928 - NopCommerce -INFO - *****************closign Browser***************
